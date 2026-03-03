@@ -1,4 +1,4 @@
-# 🤖 Universal Mobile AI カスタマーサポートシステム
+# 🤖AI カスタマーサポートシステム
 
 [![PHP](https://img.shields.io/badge/PHP-7.4-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![CakePHP](https://img.shields.io/badge/CakePHP-2.x-D33C43?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org/)
@@ -27,7 +27,7 @@
 
 ## 🎯 プロジェクト概要
 
-在米日本人向け格安SIM「Universal Mobile」のカスタマーサポート業務をAIで自動化。  
+カスタマーサポート業務をAIで自動化。  
 問い合わせ内容をAIが解析し、Freshdesk FAQデータ・自社FAQ DB・公式サイト情報を横断的に参照して最適な回答を生成します。  
 Webチャット（マイページ・公開サイト）と電話（Retell AI音声）の両チャネルに対応した統合サポートシステムです。
 
